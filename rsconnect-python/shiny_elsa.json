@@ -1,0 +1,12 @@
+{
+    "https://eslv200.es.dupont.com/": {
+        "server_url": "https://eslv200.es.dupont.com/",
+        "filename": "C:\\Users\\ep5644\\Documents\\Python_Scripts\\Shiny\\shiny_elsa",
+        "app_url": "https://eslv200.es.dupont.com/content/78d36310-c2cf-4d7a-95fd-18fcf1ef7c76/",
+        "app_id": "78d36310-c2cf-4d7a-95fd-18fcf1ef7c76",
+        "app_guid": "78d36310-c2cf-4d7a-95fd-18fcf1ef7c76",
+        "title": "shiny_elsa",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

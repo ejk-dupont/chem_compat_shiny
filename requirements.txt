@@ -1,0 +1,8 @@
+pandas
+rdkit
+dataframe_image
+shiny
+cirpy
+pathlib
+utils
+openpyxl
