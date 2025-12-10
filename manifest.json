@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.9.12",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.2.4",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "40cd29efa528cd8e51204270c0e19c83"
+    },
+    "Archive/app-20230720.py": {
+      "checksum": "5ea6bfdacff09e2239e28c3410172173"
+    },
+    "Archive/app-20230927.py": {
+      "checksum": "2cd7d44118b8175e9e6d37e0127dda3b"
+    },
+    "Archive/app-20231004.py": {
+      "checksum": "06dddfd3a5cc97c21e596f18b469f4be"
+    },
+    "Archive/app-20231102.py": {
+      "checksum": "0a9a231bbd3ee200f223efe274d41ff5"
+    },
+    "Archive/app-20240102-2.4.py": {
+      "checksum": "478232d6e1f1df848578c1fb03dacbd0"
+    },
+    "Archive/utils-20230720.py": {
+      "checksum": "9f5726fa99b2fb732bca3dc509d6fa4f"
+    },
+    "Archive/utils-20230927.py": {
+      "checksum": "e06e97894fd981c62cfca961732f887e"
+    },
+    "Archive/utils-20231004.py": {
+      "checksum": "cea1e1564c4bcb5186b4d22dda557a68"
+    },
+    "Archive/utils-20231102.py": {
+      "checksum": "c4e3c6bf1ccc6988ec93855e5bcf3b9d"
+    },
+    "Archive/utils-20240102-2.4.py": {
+      "checksum": "295d7769b1183173ac6c78f2ed950370"
+    },
+    "CRW4_Master.xlsx": {
+      "checksum": "06e89c90d3e673594372ab1668ca3942"
+    },
+    "app.py": {
+      "checksum": "09fb5b404bfd6a7ac1503da1578a333f"
+    },
+    "chart.xlsx": {
+      "checksum": "4d54b820fda3d0d2a184302f4516e92a"
+    },
+    "host.py": {
+      "checksum": "4563d430021471252c2394a28715c30f"
+    },
+    "other_database.xlsx": {
+      "checksum": "d3263acbc63f7dad888cc21803f6267e"
+    },
+    "oxidation_states.xlsx": {
+      "checksum": "967ee3956b8632e76926b2c0107b48a1"
+    },
+    "restart.txt": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "rgpics/1.png": {
+      "checksum": "ac5d6dbac07907cf9b246c8b8d2cd7b6"
+    },
+    "rgpics/10.png": {
+      "checksum": "267373173327c09d4a3ff677623280ba"
+    },
+    "rgpics/100.png": {
+      "checksum": "24ccdeaac82329fe74dada1661667d00"
+    },
+    "rgpics/11.png": {
+      "checksum": "e5d23159e35a7d40832f859f9a6f1d94"
+    },
+    "rgpics/12.png": {
+      "checksum": "9dc9e086cf8a91fc8e3ce1fa7ebee278"
+    },
+    "rgpics/13.png": {
+      "checksum": "d752c0516ff3fc0b262391d3943be5a3"
+    },
+    "rgpics/14.png": {
+      "checksum": "01645117777c086155ab74ab7ffc1ccb"
+    },
+    "rgpics/16.png": {
+      "checksum": "289a95452eb15cee16545b5be3146466"
+    },
+    "rgpics/17.png": {
+      "checksum": "c9bdaf7ee2ecfa9878a6fe97d1ff4ba4"
+    },
+    "rgpics/18.png": {
+      "checksum": "f07afff83924c6e0711f82cc2b5331da"
+    },
+    "rgpics/19.png": {
+      "checksum": "67224c19abe35b602f202befb3f2e0d7"
+    },
+    "rgpics/2.png": {
+      "checksum": "82b931857ea7b9e24961db745b27a52e"
+    },
+    "rgpics/20.png": {
+      "checksum": "99a6a8d5d09893afc854b831e0535598"
+    },
+    "rgpics/21.png": {
+      "checksum": "0a5e53af577b6ab3c3c8649f7df53226"
+    },
+    "rgpics/22.png": {
+      "checksum": "d030ccec5c2d3e31da405b105d1bbf92"
+    },
+    "rgpics/23.png": {
+      "checksum": "f392f0734c5f85696e9fac2f92ae65cd"
+    },
+    "rgpics/25.png": {
+      "checksum": "84c0b7f6d442a86a56edf832ce27214d"
+    },
+    "rgpics/26.png": {
+      "checksum": "5e7f14f28ef234bffe4135720f647281"
+    },
+    "rgpics/27.png": {
+      "checksum": "a12861d6a4a16675ae0f9db61339db05"
+    },
+    "rgpics/28.png": {
+      "checksum": "a47b99161f4fb4b31622b7e6b62b8d1c"
+    },
+    "rgpics/29.png": {
+      "checksum": "5ca6fe0b45807e10adaf591b3a052e9b"
+    },
+    "rgpics/3.png": {
+      "checksum": "cadb2d7cc8502932a3e70c7b5a8ba85d"
+    },
+    "rgpics/30.png": {
+      "checksum": "c4ee2be1fcd4c7f6e26fdd1fa3c926bf"
+    },
+    "rgpics/31.png": {
+      "checksum": "42f0df453cfd385ce13d118bd3d6413c"
+    },
+    "rgpics/32.png": {
+      "checksum": "865234938b2fde2f5fc95373846ed15b"
+    },
+    "rgpics/33.png": {
+      "checksum": "407c40ace0a1bc9b323346a3313b8126"
+    },
+    "rgpics/34.png": {
+      "checksum": "fd99ed658664fb728a696f3e699b9000"
+    },
+    "rgpics/35.png": {
+      "checksum": "228f02ccb4fa053e3ac24141d44913bb"
+    },
+    "rgpics/37.png": {
+      "checksum": "59b8f0fa18bc39673ad769bcd6167a8c"
+    },
+    "rgpics/38.png": {
+      "checksum": "718a7a49d2851514a528e373b5871ca9"
+    },
+    "rgpics/39.png": {
+      "checksum": "26286e87534c29814081a1a1fcfeaa93"
+    },
+    "rgpics/4.png": {
+      "checksum": "a9e6516b189e8b4224a831d7148aac8a"
+    },
+    "rgpics/40.png": {
+      "checksum": "f7bdc79e80f7aa7f4d873158899c7e54"
+    },
+    "rgpics/42.png": {
+      "checksum": "7885bb47a7887d5e50e39f26c3367acb"
+    },
+    "rgpics/44.png": {
+      "checksum": "4243c49f6e0173091e6137cc0280c3a2"
+    },
+    "rgpics/45.png": {
+      "checksum": "abee3840ed10c829a0c944fd7297c242"
+    },
+    "rgpics/46.png": {
+      "checksum": "c9875ce93cefaa1866a852b056678caf"
+    },
+    "rgpics/47.png": {
+      "checksum": "9faf755ad819c3df7d6a78c1ab3758cf"
+    },
+    "rgpics/48.png": {
+      "checksum": "508a9b022fc62b2d21cadf165792334f"
+    },
+    "rgpics/49.png": {
+      "checksum": "f51636c8c610cbdb336fa6e97fae130d"
+    },
+    "rgpics/5.png": {
+      "checksum": "ee640da2a3d988b037e50e56d87b075d"
+    },
+    "rgpics/50.png": {
+      "checksum": "51805b954168aca05fb66d994241f9db"
+    },
+    "rgpics/51.png": {
+      "checksum": "ec54aef8f80bdddfce6fe3f11b71aa77"
+    },
+    "rgpics/55.png": {
+      "checksum": "71c5def93e46d67d42be99cdf3950aa5"
+    },
+    "rgpics/58.png": {
+      "checksum": "8669fc40fc4192aa4ab71f7e7602d638"
+    },
+    "rgpics/59.png": {
+      "checksum": "9f6c3d04c1668263079e54da5be7f11b"
+    },
+    "rgpics/6.png": {
+      "checksum": "b1887d5116cb8fd7be96771381636441"
+    },
+    "rgpics/60.png": {
+      "checksum": "20a023eeeec200b7008cf65992f92009"
+    },
+    "rgpics/61.png": {
+      "checksum": "3ed9eb8fc9d483c0c17cf7fc1c41faa4"
+    },
+    "rgpics/62.png": {
+      "checksum": "555c7450447ba70d9560100256d05ad2"
+    },
+    "rgpics/63.png": {
+      "checksum": "34388d78c0ca7fe5f130120c30b9c008"
+    },
+    "rgpics/64.png": {
+      "checksum": "181e6616dceca420259118f82cb17629"
+    },
+    "rgpics/65.png": {
+      "checksum": "2f8a272c927cca2a6de897f79e095808"
+    },
+    "rgpics/66.png": {
+      "checksum": "d561805edc9c2a44db87f71eaacda903"
+    },
+    "rgpics/68.png": {
+      "checksum": "614a4581463a03a21b19a70fc1a362af"
+    },
+    "rgpics/69.png": {
+      "checksum": "ce9efc4f485fee84c698bbdafd2f86d9"
+    },
+    "rgpics/7.png": {
+      "checksum": "64dbddedec5ac754814843fb97be5889"
+    },
+    "rgpics/70.png": {
+      "checksum": "f28d2f483c0be0d21d3e6c69a87c214b"
+    },
+    "rgpics/71.png": {
+      "checksum": "d439630881dba41d554c498ae078dd2a"
+    },
+    "rgpics/72.png": {
+      "checksum": "55a2ad1c34bab6f81335f4d014eff749"
+    },
+    "rgpics/73.png": {
+      "checksum": "5776fe6e85cb02d724697e04782bf20b"
+    },
+    "rgpics/74.png": {
+      "checksum": "7a13d080d747747c71639fd58def701b"
+    },
+    "rgpics/75.png": {
+      "checksum": "c844ef26890555b38f3117f7a9efa85a"
+    },
+    "rgpics/76.png": {
+      "checksum": "43079461a936d0e663594a6dfe8dc91d"
+    },
+    "rgpics/8.png": {
+      "checksum": "b4dafb7c75756d27f2357a0f5647ba27"
+    },
+    "rgpics/9.png": {
+      "checksum": "62c3dd19b415012794d6dbdf07e0321c"
+    },
+    "rgpics/98.png": {
+      "checksum": "143d717483c92d1c278cc93b73bdfeb8"
+    },
+    "rgpics/Presentation1.pptx": {
+      "checksum": "be3458f816722f8379c7c95266018a9d"
+    },
+    "rgpics/rgdrawings.cdxml": {
+      "checksum": "83bdfb31b647e46a16a3045004c5d9e3"
+    },
+    "rgpics/rgdrawings.png": {
+      "checksum": "f5a8b71b6aea3e95017e6fd513b38305"
+    },
+    "table_layout.png": {
+      "checksum": "26c9e0671d7563e60ae9991f939c8bfa"
+    },
+    "temp.png": {
+      "checksum": "4576e2c6eed79c199d149eca74d3c361"
+    },
+    "temp_white.png": {
+      "checksum": "8915aa3c714b206f95a0142235e2903f"
+    },
+    "utils.py": {
+      "checksum": "23fe881e68533351acc1210a2402c016"
+    }
+  }
+}
